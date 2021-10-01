@@ -10,7 +10,7 @@ let highscore =[
       },
       {
         name:"gopal",
-        score:2
+        score:3
       }
 ];
 
